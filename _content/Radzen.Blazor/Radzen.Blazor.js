@@ -16,13 +16,6 @@ if (!Element.prototype.closest) {
   };
 }
 
-if (document.fonts && document.body) {
-  document.body.classList.add('rz-icons-loading');
-  document.fonts.load('16px Material Symbols').then(() => {
-      document.body.classList.remove('rz-icons-loading');
-  })
-}
-
 var resolveCallbacks = [];
 var rejectCallbacks = [];
 var radzenRecognition;
@@ -987,9 +980,9 @@ window.Radzen = {
           return;
     }
 
-    var ch = String.fromCharCode(e.charCode);
+    var ch = e.key;
 
-    if ((isInteger ? /^[-\d]$/ : /^[-\d,.]$/).test(ch)) {
+    if (/\p{Nd}/u.test(ch) || ch === '-' || (!isInteger && ch === decimalSeparator)) {
       return;
     }
 
