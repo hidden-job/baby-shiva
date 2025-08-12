@@ -120,6 +120,25 @@
         };
     </script>
 
+    <script>
+        const observer = new MutationObserver(mutations => {
+            mutations.forEach(mutation => {
+                mutation.addedNodes.forEach(node => {
+                    if (
+                        node.nodeType === 1 &&
+                        node.classList.contains('rz-notification-item-wrapper')
+                    ) {
+                        setTimeout(() => {
+                            node.remove();
+                        }, 2000);
+                    }
+                });
+            });
+        });
+
+        observer.observe(document.body, { childList: true, subtree: true });
+    </script>
+
 
 
 
