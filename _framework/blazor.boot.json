@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Rakubin.Blazor",
   "resources": {
-    "hash": "sha256-MVst9Z2pdySSeE0BGn873ky9ZoHXhZfH8fn4r2+tRvA=",
+    "hash": "sha256-rjSRLvMYT7msNoYr4Ui7WhqYBgoNrz6fcfuCzHkWDqs=",
     "jsModuleNative": {
       "dotnet.native.8.0.19.ihm50f0zha.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -42,8 +42,8 @@
       "PinguApps.Blazor.QRCode.wasm": "sha256-HCKW9eLs28EWYiNbhEH77AQbEI/A5vpvL08iJWWkDr0=",
       "QrCodeGenerator.wasm": "sha256-z3+esyimmlmQOH5c4HTCkTV+cAuqUIex3HEpZzSYjGQ=",
       "Radzen.Blazor.wasm": "sha256-OSIPp8VGFW57prUeDYjA1OCnMc1lNJTvGRDynbBHFpE=",
-      "Rakubin.Blazor.wasm": "sha256-sdDM9WtxXY1JXhiOrNFTZS3zkYN8o+71MQtMNCMWVdk=",
-      "Rakubin.Models.wasm": "sha256-ccfnn1oUWCpqHu/yuXvknxc8z/9Ytiy0VwMIdrWyiEI=",
+      "Rakubin.Blazor.wasm": "sha256-WUebVPAirp72s44monOq+BSD2EiMcKFgLBiqyH9JmvQ=",
+      "Rakubin.Models.wasm": "sha256-Yql6N+K50kNFnkxDs+o2wl7hlMTPBrNVgxw755mxs+s=",
       "System.Collections.Concurrent.wasm": "sha256-M/s8MJASrW9WGHqCsPt7bc58+8dX0PC0YTJkn125OYY=",
       "System.Collections.NonGeneric.wasm": "sha256-WIr2XV3eoprLO357DONBjAXP0Yn7Q0kW0WYwXrit51A=",
       "System.Collections.Specialized.wasm": "sha256-9T7GtaCMYuCr+kcRT6OLtelv9BYOugDYjQHUbdXyxCA=",
@@ -74,7 +74,7 @@
       "System.Reflection.Primitives.wasm": "sha256-d8XDSOSy3JX61U5RTEn/GZqLbIxL5JxzbTWA2uKLRt8=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-YmlimHcTFLFx8V7gMfl9z3FFLhR5x8VOxbc7w6JM0fk=",
       "System.Runtime.InteropServices.wasm": "sha256-z45BJB4SQWxL6kvc8I2DWi/SnH1EGEAUk/O5C0+1Dak=",
-      "System.Runtime.wasm": "sha256-+AhvVJE34cQ6hKPW/xb/9I28QePGFuK4yp2X5DZiKkk=",
+      "System.Runtime.wasm": "sha256-dB14xuTOwsLAPFOQ5b+zVhZfB6wkau/w4/VSkLcDI5w=",
       "System.Text.Encodings.Web.wasm": "sha256-jg0k8iPFjKd5sdULDccBjAX04j6rXdaywUo1YYGVXAw=",
       "System.Text.Json.wasm": "sha256-imTTol5vf98E0pcY1gspqc/Km5I4VgAU0s4/myQJITs=",
       "System.Text.RegularExpressions.wasm": "sha256-iNHUADTdn4Vbezbc+jR8k/4sL+GtPki6TI+OCdIwnmU=",
