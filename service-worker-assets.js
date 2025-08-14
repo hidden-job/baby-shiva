@@ -177,7 +177,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-12IiKuZVZf\/9Uuf596RhRf6DHnhBzllUv4azPCY8LH8=",
+      "hash": "sha256-LbU\/m+FkJ\/dz894NiF200M9T4ejiPGwImqa0XXl5wxE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,11 +281,11 @@
       "url": "_framework\/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-IvfIzBcBXqLIw3TZOEjp0IrvkIa7FgjNx3lWHbIvNVo=",
+      "hash": "sha256-Cj\/sWJ3yKVdXHTTbpOAHTR2hbJB53hcgyJF2M123G1Q=",
       "url": "_framework\/Rakubin.Blazor.wasm"
     },
     {
-      "hash": "sha256-slAqahleqk5P8l2+7k1\/GSHar2OaTBO0EgMV4cXocAE=",
+      "hash": "sha256-kIXojfLYObPnCV\/ZBXeukd09gvxDRYwOlIVF5jPNad4=",
       "url": "_framework\/Rakubin.Models.wasm"
     },
     {
@@ -665,5 +665,5 @@
       "url": "_content\/ZXingBlazor\/ZXingBlazor.bundle.scp.css"
     }
   ],
-  "version": "JXkjmBXS"
+  "version": "uoZeZIXz"
 };
