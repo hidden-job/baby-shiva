@@ -55,6 +55,12 @@
         };
     </script>
     <script>
+        window.clearBrowserCache = async () => {
+            const keys = await caches.keys();
+            await Promise.all(keys.map(k => caches.delete(k)));
+        };
+    </script>
+    <script>
         let voiceReady = false;
         let defaultVoice = null;
 
