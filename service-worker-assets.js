@@ -369,7 +369,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-O\/IUpoPKNwcAxICFBQM6PVkfxjBKLOfnnuYp0ZKahc0=",
+      "hash": "sha256-aFXigllCIddYoru6qaGnSoFIkdUVdBt7lU4k80XT4RU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -473,11 +473,11 @@
       "url": "_framework\/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-nwyQrts94K7fMoeqShLXfqI1O9\/pTwzufxVKPimTkDE=",
+      "hash": "sha256-IVVbksgnZBMAE6U5WHxAMY\/fVmlxDe0iZlqEo\/hVSlw=",
       "url": "_framework\/Rakubin.Blazor.wasm"
     },
     {
-      "hash": "sha256-FwQG9yRiQhi36m11Wj+3oUmfPxVKxsEH2sksvQ6ka+s=",
+      "hash": "sha256-HGYusYvoUAVRb+nGTSZdkd16QFZewsnMzOwReccytaI=",
       "url": "_framework\/Rakubin.Models.wasm"
     },
     {
@@ -645,7 +645,7 @@
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-pRZX1M5sO7dgMFGtH4NTkBA2GIo4jkiVgstZykdMjWk=",
+      "hash": "sha256-oas41b9FdZG4AZ2yUzCMFZYniYfDo8w8nwWAc0xUAyM=",
       "url": "appsettings.json"
     },
     {
@@ -857,5 +857,5 @@
       "url": "_content\/ZXingBlazor\/ZXingBlazor.bundle.scp.css"
     }
   ],
-  "version": "PXIdwanw"
+  "version": "Mwc1eyx4"
 };
