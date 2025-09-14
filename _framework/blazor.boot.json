@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Rakubin.Blazor",
   "resources": {
-    "hash": "sha256-ZMZSx9q8ha6JiNmksQMOcXNGCnbgrWSVFZ4nIWhd9Kw=",
+    "hash": "sha256-wOkPnxKaJf/bZHMJpdUDma3Jy3Wlqe6TfLbwQ/FrZz4=",
     "jsModuleNative": {
       "dotnet.native.8.0.20.elargmqivm.js": "sha256-D0bzod5lwwSzPR43JC8TTCcZKw+3jIHOk8CZFCRj5is="
     },
@@ -42,8 +42,8 @@
       "PinguApps.Blazor.QRCode.wasm": "sha256-HCKW9eLs28EWYiNbhEH77AQbEI/A5vpvL08iJWWkDr0=",
       "QrCodeGenerator.wasm": "sha256-z3+esyimmlmQOH5c4HTCkTV+cAuqUIex3HEpZzSYjGQ=",
       "Radzen.Blazor.wasm": "sha256-OSIPp8VGFW57prUeDYjA1OCnMc1lNJTvGRDynbBHFpE=",
-      "Rakubin.Blazor.wasm": "sha256-paU4ijlaQ8Tfzp7+6Z3gwsjNMxidCbHxaPefZyvF0L8=",
-      "Rakubin.Models.wasm": "sha256-aCHYngotviaWrBfRKadRJuy2EKjGmyUvFPYu3bGVVk0=",
+      "Rakubin.Blazor.wasm": "sha256-8Z38RUPvb6Srqpit1xPEHTAtd9NXVd3WHLD5X6dZMew=",
+      "Rakubin.Models.wasm": "sha256-+S7qzmTi9/6J7rZ2grC4izuzipf6tbfiBgoGAJKgT2o=",
       "System.Collections.Concurrent.wasm": "sha256-H08C5NscwRCns5BmtnAlzOIklkFoM7Sl9UkywLg2eN8=",
       "System.Collections.NonGeneric.wasm": "sha256-ZUnnO1g68pPFbgoiQ5b34C9CiuAYtKcKicy0ip3ajcs=",
       "System.Collections.Specialized.wasm": "sha256-OXY3ja62mwI+OcVILSTBuTo/1gMjfivp44O4uBBzxOE=",
