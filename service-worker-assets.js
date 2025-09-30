@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "/1zrtTYE",
+  "version": "NhEvLIWx",
   "assets": [
     {
       "hash": "sha256-MTorSTc+VXWgeoIYlBrYLCHr2aYiGDw7h4i+iTCQX6o=",
@@ -310,11 +310,11 @@ self.assetsManifest = {
       "url": "_framework/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-8HsvQwBw+pdoPjMiPsb3/nMoOHa5RZzdXfCozL6a1M4=",
+      "hash": "sha256-ggrzy0W/sOaFuFobC2B8570d9c6pMGb8Ib8UO0AWlPc=",
       "url": "_framework/Rakubin.Blazor.wasm"
     },
     {
-      "hash": "sha256-7lneuu3lZLcnwl/Ysku6h4c1AP2oksQ0k/zlAGIbDyw=",
+      "hash": "sha256-LfRRGJGogizTc6HjXR+F0zlcU3PXOMl6aQYUrOFqtzY=",
       "url": "_framework/Rakubin.Models.wasm"
     },
     {
@@ -478,7 +478,7 @@ self.assetsManifest = {
       "url": "_framework/ZXingBlazor.wasm"
     },
     {
-      "hash": "sha256-AgHPBhnabJFhxwvLgmfooSBPaDtUWAYmhwspH9b9nPg=",
+      "hash": "sha256-HjvckW4bJKECuQgD/6aD5jHpc626kAENk9Qs6s8Y6To=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -586,8 +586,20 @@ self.assetsManifest = {
       "url": "images/shiva_icon_white.png"
     },
     {
-      "hash": "sha256-/M2H2jgVCrmF7IydaBcvURBgurzLo4KvX7a/LpdAVDc=",
+      "hash": "sha256-NEdeDKYuP4DMKGoQcp8LGvCm87Cs4jFz9J17gbT66N0=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-3B5uFJ1GikXvFKUnbkr+vPcdGmfmL1MLx5rUZgUGF04=",
+      "url": "lib/bootstrap/bootstrap.min.css"
+    },
+    {
+      "hash": "sha256-OMpoBS32u3ISb/nO3X140q/mIHnpFJ3e32UK6PTHRM8=",
+      "url": "lib/fonts/roboto/RobotoFlex.woff2"
+    },
+    {
+      "hash": "sha256-v+P3AjnZRbhkwx2XbZ/EdgOstICc5koNFBoUw9M3E8w=",
+      "url": "lib/fonts/roboto/roboto.css"
     },
     {
       "hash": "sha256-1dSx5aUEQnQiqTHdU3xk4405DS6gF3wTVYF7UraU+iA=",
